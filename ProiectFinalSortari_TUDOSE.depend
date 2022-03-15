@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647371689 source:c:\toate\facultate\info\an 1 semestru 2\structuri de date\tema lab 1\compilatie\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	<chrono>
+	<cstring>
+	<fstream>
+
